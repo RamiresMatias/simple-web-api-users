@@ -23,7 +23,7 @@ E algums métodos como PUT e DELETE são protegidos por claims para serem soment
   > Swashbuckle.AspNetCore                             6.2.3 
 
 
-## Rotas
+## 🚀 Rotas
 
 - /api/Login
 - /api/User
