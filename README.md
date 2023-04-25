@@ -14,4 +14,4 @@ E algums métodos como PUT e DELETE são protegidos por claims para serem soment
 - /api/Login
 - /api/User
 
-![alt text](./assets/images/print_swagger.png)
+![alt text](./Assets/Images/print_swagger.png)
